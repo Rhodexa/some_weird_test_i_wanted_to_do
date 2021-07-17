@@ -7,7 +7,7 @@ Can i put HTML here?
   this is a div - hopefully
 </div>
 
-mm... so, the div is there, but style happears...
+mm... so, the div is there, but no style happears...
 
 can i use a style tag?
 <style>
