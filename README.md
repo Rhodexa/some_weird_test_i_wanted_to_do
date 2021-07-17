@@ -15,3 +15,7 @@ can i use a style tag?
     background-color: tomato;
   }
 </style>
+
+so... i can't.
+
+well.. that's sad!
